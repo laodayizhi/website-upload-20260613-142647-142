@@ -1,0 +1,10 @@
+{
+    "name": "高清国产影视",
+    "short_name": "高清国产影视",
+    "description": "提供高清国产影片免费在线观看，每日更新最新热播影视推荐，内容涵盖电影、电视剧等多种类型，是发现国产好片的理想平台。",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#0f172a",
+    "theme_color": "#2563eb",
+    "lang": "zh-CN"
+}
